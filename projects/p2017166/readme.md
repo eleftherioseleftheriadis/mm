@@ -36,3 +36,17 @@ https://asciinema.org/a/BwgA5Rvbv9S5VdiW2BR0bX0v4
 
 Χρήση του transmission-cli για την λήψη torrent (εντολή wget)
 sudo apt install transmission-cli
+
+## Τρίτο Παραδοτέο
+#### url asciinema to recorded terminal session: 
+
+https://asciinema.org/a/VbhjX1GRDyoC6HKCNJlFLZPgh
+
+Χρήση υποεντολής του mplayer για την αναπαραγωγή βίντεο μέσω τερματικού
+
+## Τέταρτο Παραδοτέο
+#### url asciinema to recorded terminal session: 
+
+https://asciinema.org/a/wTxbVe3BdjKC2p4zFvibx8xiN
+
+Χρήση του Hugo για δημιουργία μιας απλής ιστοσελίδας μέσω τερματικού
